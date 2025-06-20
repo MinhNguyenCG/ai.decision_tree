@@ -1,0 +1,10 @@
+Classification Report (depth = 21, 90/10 split):
+
+              precision    recall  f1-score   support
+
+   No Stroke       0.96      0.96      0.96       486
+      Stroke       0.14      0.12      0.13        25
+
+    accuracy                           0.92       511
+   macro avg       0.55      0.54      0.54       511
+weighted avg       0.92      0.92      0.92       511
